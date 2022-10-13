@@ -1,2 +1,2 @@
 # DMVGAE
-Code for DMVGAE presented at ICASSP 2023. We will release codes after ICASSP 2023.
+Code for DMVGAE. We will release relevant codes after ICASSP 2023.
